@@ -8,6 +8,11 @@ img {
 	max-width: 100%;
 }
 
+.hero {
+    align-self: center;
+    justify-self: center;
+}
+
 .form-container {
 	background: #9cb2d6;
 }
