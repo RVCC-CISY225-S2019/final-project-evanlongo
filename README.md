@@ -32,3 +32,5 @@ The design of this project follows CSS formatting rules.
 Attributions
 
 The copyrights of all photos appeared in this website, including the logo, are reserved to Evan Longo.
+
+The story is an excerpt from "Strange Case of Dr. Jekyll and Mr. Hyde" by Robert Louis Stevenson
