@@ -43,6 +43,7 @@ button:focus {
 
 main {
 	display: grid;
+	color: #4286f4;
 }
 
 /* hero content */
